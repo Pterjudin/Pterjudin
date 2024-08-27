@@ -1,7 +1,7 @@
 <h2 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Tajudeen+Oyindamola.;I'm+a+Software+Engineer+and+Data+Scientist;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Tajudeen+Oyindamola+T.;I'm+a+Software+Engineer+and+Dev+Ops+and+Cloud+Enthusiat;"></a>
 </p>
 
 <p align="left">
@@ -26,6 +26,6 @@
 
 ## :fire: Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Tajudeen Oyindamola" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true&v=1" alt="Tajudeen Oyindamola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight&count_private=true" alt="Tajudeen Oyindamola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight&count_private=true&v=1" alt="Tajudeen Oyindamola" /></p>

@@ -26,39 +26,38 @@
 
 ## 🔥 GitHub Analytics
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats including private and organization repos -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats including private and organization repos -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Top Languages -->
+<!-- GitHub Top Languages including private and organization repos -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pterjudin&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
-<!-- GitHub Contributions -->
+<!-- GitHub Contributions including private and organization repos -->
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Pterjudin&count_private=true&theme=tokyonight" alt="GitHub Contributions" />
 </p>
 
 ## 📊 Repository Contribution Stats
 
-<!-- Replace `your-repository` with the actual repository name -->
+<!-- Repository Contribution Stats for all repos including private ones -->
 <p align="center">
-  <a href="https://github.com/Pterjudin/your-repository">
-    <img src="https://contrib.rocks/image?repo=Pterjudin/your-repository" alt="Repository Contributions" />
+  <a href="https://github.com/Pterjudin?tab=repositories">
+    <img src="https://contrib.rocks/image?repo=Pterjudin/pterjudin" alt="Repository Contributions" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pterjudin/your-repository"><strong>View Repository Contributions &rarr;</strong></a>
+  <a href="https://github.com/Pterjudin?tab=repositories"><strong>View All Repository Contributions &rarr;</strong></a>
 </p>
-
 
 ## 🛠️ Tools and Technologies
 
@@ -72,10 +71,11 @@
 
 - **Email**: [tajudeenoyindamola@outlook.com](mailto:tajudeenoyindamola@outlook.com)
 - **LinkedIn**: [Tajudeen Oyindamola](https://www.linkedin.com/in/tajudeen-oyindamola/)
+
 ## 🎉 Fun Fact
 
 - I love to solve coding challenges and contribute to open-source projects in my free time.
 
 ---
 
-*This README was generated with ❤️ by [Tajudeen Oyindamola](https://github.com/Pterjudin).*
+*This README was generated with ❤️ by [Tajudeen Oyindamola T.](https://github.com/Pterjudin).*

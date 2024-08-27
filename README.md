@@ -38,7 +38,7 @@
 
 <!-- GitHub Top Languages including private and organization repos -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pterjudin&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pterjudin&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 <!-- GitHub Contributions including private and organization repos -->

@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 require('dotenv').config();
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN = process.env.PAT_TOKEN;
 const USERNAME = 'Pterjudin';
 
 const headers = {
@@ -41,14 +41,26 @@ const fetchGitHubData = async () => {
             { query: query },
             { headers: headers }
         );
+
+        if (response.status !== 200) {
+            throw new Error(`GitHub API returned status ${response.status}: ${response.statusText}`);
+        }
+
         return response.data.data;
+
     } catch (error) {
-        console.error('Error fetching data from GitHub API:', error);
+        console.error('Error fetching data from GitHub API:', error.message || error);
+        process.exit(1);  // Exit the script with a failure code
     }
 };
 
 const updateReadme = async () => {
     const data = await fetchGitHubData();
+
+    if (!data || !data.user) {
+        console.error("Failed to retrieve user data.");
+        process.exit(1);
+    }
 
     const totalCommits = data.user.contributionsCollection.totalCommitContributions;
     const privateContributions = data.user.contributionsCollection.restrictedContributionsCount;

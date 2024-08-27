@@ -29,7 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight" alt="Tajudeen Oyindamola" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&&theme=tokyonight" alt="Tajudeen Oyindamola" /></p>
-
-### What I am listening to on Spotify now 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)

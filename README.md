@@ -27,7 +27,7 @@
 ## :fire: Github Stats
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="Tajudeen Oyindamola" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&v=1&token=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" alt="Tajudeen Oyindamola" /></p>
 
 <!-- GitHub Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="Tajudeen Oyindamola" /></p>

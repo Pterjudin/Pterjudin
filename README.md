@@ -6,7 +6,7 @@
 </p>
 
 <!-- Profile Views -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pterjudin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -45,7 +45,7 @@
 | **WorkIntercept**  | 3 Repositories           |
 | **AHS-GROUP**      | 3 Repositories           |
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 

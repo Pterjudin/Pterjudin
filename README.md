@@ -46,15 +46,7 @@
 | **AHS-GROUP**      | 3 Repositories           |
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pterjudin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🌐 Connect with Me

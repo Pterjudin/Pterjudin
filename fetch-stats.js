@@ -5,6 +5,11 @@ require('dotenv').config();
 const GITHUB_TOKEN = process.env.PAT_TOKEN;
 const USERNAME = 'Pterjudin';
 
+if (!GITHUB_TOKEN) {
+    console.error('Error: GitHub Personal Access Token (PAT) is not defined in the environment variables.');
+    process.exit(1);
+}
+
 const headers = {
     'Authorization': `Bearer ${GITHUB_TOKEN}`,
     'Content-Type': 'application/json'

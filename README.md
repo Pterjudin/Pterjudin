@@ -46,6 +46,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Pterjudin&count_private=true&theme=tokyonight" alt="GitHub Contributions" />
 </p>
 
+## 📊 Repository Contribution Stats
+
+<!-- Replace `your-repository` with the actual repository name -->
+<p align="center">
+  <a href="https://github.com/Pterjudin/your-repository">
+    <img src="https://contrib.rocks/image?repo=Pterjudin/your-repository" alt="Repository Contributions" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pterjudin/your-repository"><strong>View Repository Contributions &rarr;</strong></a>
+</p>
+
 
 ## 🛠️ Tools and Technologies
 
@@ -59,8 +72,6 @@
 
 - **Email**: [tajudeenoyindamola@outlook.com](mailto:tajudeenoyindamola@outlook.com)
 - **LinkedIn**: [Tajudeen Oyindamola](https://www.linkedin.com/in/tajudeen-oyindamola/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
 ## 🎉 Fun Fact
 
 - I love to solve coding challenges and contribute to open-source projects in my free time.

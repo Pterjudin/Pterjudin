@@ -26,6 +26,6 @@
 
 ## :fire: Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight" alt="Tajudeen Oyindamola" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pterjudin&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="Tajudeen Oyindamola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&&theme=tokyonight" alt="Tajudeen Oyindamola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pterjudin&theme=tokyonight&count_private=true" alt="Tajudeen Oyindamola" /></p>
